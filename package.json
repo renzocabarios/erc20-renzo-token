@@ -1,0 +1,20 @@
+{
+  "name": "erc20-renzo-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renzocabarios/erc20-renzo-token.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renzocabarios/erc20-renzo-token/issues"
+  },
+  "homepage": "https://github.com/renzocabarios/erc20-renzo-token#readme"
+}
