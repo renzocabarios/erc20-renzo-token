@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/renzocabarios/erc20-renzo-token/issues"
   },
-  "homepage": "https://github.com/renzocabarios/erc20-renzo-token#readme"
+  "homepage": "https://github.com/renzocabarios/erc20-renzo-token#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.12.2"
+  }
 }
